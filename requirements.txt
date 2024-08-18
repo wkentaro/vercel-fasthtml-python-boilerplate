@@ -1,2 +1,4 @@
 python-fasthtml==0.1.11
+fastlite==0.0.7
+fastcore==1.6.9
 uvicorn==0.30.1
